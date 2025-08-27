@@ -35,6 +35,4 @@ Java | JavaScript | Python | PostgreSQL | Linux | Spring Boot | Docker
 
 ## 📫 Contato  
 
-Fique à vontade para explorar meus repositórios ou entrar em contato!  
-
 📧 Email: tainaraazevedo791@gmail.com
