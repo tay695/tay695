@@ -19,8 +19,9 @@ Atualmente estou aprimorando meus conhecimentos em:
 
 1. Desenvolvimento de APIs REST com Spring Boot  
 2. Padrões de projeto e boas práticas no back-end  
-3. Soluções web utilizando Python 🐍  
-4. Docker para conteinerização e deploy de aplicações  
+3. Soluções web utilizando Python 🐍
+4. Aprimoramento em Django 
+5. Docker para conteinerização e deploy de aplicações  
 
 💡 Já desenvolvi soluções web em **Java** e venho evoluindo continuamente com projetos pessoais e estudos.  
 
